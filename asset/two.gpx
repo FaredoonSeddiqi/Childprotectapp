@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx
+  version="1.1"
+  creator="YourAppName"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <wpt lat="33.6901" lon="73.0551">
+    <name>I-10 Markaz, Islamabad</name>
+    <desc>Main Location</desc>
+  </wpt>
+
+  <!-- <wpt lat="33.6910" lon="73.0525">
+    <name>Location 1</name>
+    <desc>Description for Location 1</desc>
+  </wpt> -->
+
+  <!-- <wpt lat="33.6915" lon="73.0570">
+    <name>Location 2</name>
+    <desc>Description for Location 2</desc>
+  </wpt>
+
+  <wpt lat="33.6890" lon="73.0560">
+    <name>Location 3</name>
+    <desc>Description for Location 3</desc>
+  </wpt>
+
+  <wpt lat="33.6885" lon="73.0535">
+    <name>Location 4</name>
+    <desc>Description for Location 4</desc>
+  </wpt> -->
+
+  <wpt lat="33.6523309" lon="73.0371069">
+    <name>Location 5</name>
+    <desc>Description for Location 5</desc>
+  </wpt>
+
+
+</gpx>

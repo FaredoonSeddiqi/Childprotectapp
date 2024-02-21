@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "358575032844",
+    "project_id": "comexampletrackingapp",
+    "storage_bucket": "comexampletrackingapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358575032844:android:f495600d0d38d3802a7c29",
+        "android_client_info": {
+          "package_name": "com.example.childapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjA6H9nvz7SsWzysITVeTnez6V15hCoYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358575032844:android:ead9047a990b84422a7c29",
+        "android_client_info": {
+          "package_name": "com.example.tracking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjA6H9nvz7SsWzysITVeTnez6V15hCoYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
